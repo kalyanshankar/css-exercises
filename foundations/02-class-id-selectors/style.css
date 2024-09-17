@@ -1,0 +1,19 @@
+.odd-number {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bulugu {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-number.extra {
+    font-size: 24px;
+}
+
+#pacha {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
